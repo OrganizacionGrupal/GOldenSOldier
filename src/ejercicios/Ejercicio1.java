@@ -19,6 +19,9 @@ public class Ejercicio1
     
     public int sumaElementos(int x, int y)
     {
+        /*Aquí vemos cual es el numero mayor para en base a eso calcular
+          la máxima posición de la serie*/
+        
         int mayor;
         if (x<y) 
         {
