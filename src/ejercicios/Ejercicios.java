@@ -8,7 +8,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author Gabriel
  */

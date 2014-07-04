@@ -28,6 +28,7 @@ public class Ejercicio1
         {
             mayor=y;
             menor=x;
+            
         }
         else
         {
@@ -40,7 +41,7 @@ public class Ejercicio1
         int se2=6;
         
         
-        for (int i = 0; i <= mayor; i++) 
+        for (int i = 0; i <= menor; i++) 
         {
             vectorA[i]=se;
             i=+1;
